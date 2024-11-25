@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cauê "gameshero159" Moura</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Java Full-Stack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
